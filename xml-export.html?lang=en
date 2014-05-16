@@ -1,0 +1,17 @@
+<html><head></head>
+<body>
+<h1>Login To Skip This Step</h1>
+<form method="post" action="xml-export.html">
+  <input type="hidden" name="lang" value="en" />
+<script src="http://www.google.com/recaptcha/api/challenge?k=6Lf1RwAAAAAAANZIsJS0Ra%2dycdARlCNMTzOkkC%2dv" type="text/javascript"></script>
+<noscript><iframe frameborder="0" height="300" src="http://www.google.com/recaptcha/api/noscript?k=6Lf1RwAAAAAAANZIsJS0Ra%2dycdARlCNMTzOkkC%2dv" width="500"></iframe><textarea cols="40" name="recaptcha_challenge_field" rows="3"></textarea><input name="recaptcha_response_field" type="hidden" value="manual_challenge" /></noscript>
+  <input type="submit" />
+</form>
+</body>
+</html>
+
+
+
+
+
+
